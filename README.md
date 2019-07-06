@@ -6,11 +6,13 @@ Lowcost raspberry based system to monitor climate parameters: temps, light, wate
 ## Hardware requirements
 
 Raspberry Pi3 running raspbian
+
 Sensors:
 - 3 DS18B20
 - 1 LDR
 - 1 microswitch
 - 1 waterlevel sensor
+
 Electronic components
 - various resistors
 - mcp3008 ADC
